@@ -18,7 +18,7 @@ This repository includes:
 
 My goal is to become an expert Data Scientist by learning concepts deeply and implementing them practically.
 
-This repository is part of my long-term Data Science learning journey.
+This repository is part of my long-term data Science learning journey.
 
 ---
 
