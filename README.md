@@ -1,4 +1,4 @@
-# Feature Engineering for Data Science     
+# Feature Engineering for Data Science
 
 This repository contains my structured learning and implementations of Feature Engineering concepts for becoming a Data Scientist.
 
